@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Bhavesh Patil (github.com/bhaveshpatil07)",
+  "license": "ISC",
+  "dependencies": {
+    "server": "file:"
+  }
 }
